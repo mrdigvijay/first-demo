@@ -1,5 +1,5 @@
 # first-demo
 This is My first Git Repository.
 <br>
-Author -Mr.Digvijay BHosale.
+Author -Mr.Digvijay Bhosale.
 
